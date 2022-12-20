@@ -1,0 +1,196 @@
+header{
+    background: #e3f2fd;
+}
+
+figure img{
+    width: 62px;
+    margin-bottom: -43px;
+}
+
+/* nav{
+    margin-left: -125px;
+   margin-bottom: -15px;
+} */
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 24px 17px;
+    margin-left: -10px;
+}
+
+nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: #9faab1;
+}
+
+nav ul li a:hover{
+    color: #9faab1;
+}
+
+nav ul li:first-child:hover a{
+    color: black;
+}
+
+nav ul li:first-child a{
+    color: black;
+}
+
+
+
+.header-form form{
+    margin-top: 18px;
+}
+
+.header-form form input:first-child{
+    width: 70%;
+    padding: 9px 5px;
+}
+.header-form form input:last-child{
+    width: 29%;
+    padding: 9px 5px;
+    border: 1px solid green;
+     background: #deedf7;
+     color: green;
+     transition: .5s;
+}
+
+.header-form form input:last-child:hover{
+    background: green;
+    color: #fff;
+}
+.header-form form input:first-child:focus{
+    outline: 2px solid black;
+}
+
+
+
+/* banner-section */
+.carousel-item{
+    position: relative;
+}
+.b-content{
+    color: #fff;
+    position: absolute;
+    bottom: 49px;
+    left: 396px;
+    text-align: center;
+}
+.carousel-item img{
+    height: 500px;
+}
+
+/* bread-section */
+
+.breadcrumb{
+    width: 60%;
+    background: #e9ecef;
+    margin-left: 211px;
+    padding: 0px 20px;
+    border-radius: 10px;
+    margin-bottom: 37px;
+}
+
+.breadcrumb li{
+   
+    padding: 12px 0px;
+   
+}
+
+.bread-section{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.toast{
+    margin-left: 0px;
+}
+
+/* well-done-section */
+
+.well{
+    width: 100%;
+}
+.well .toast{
+    margin-left: 0px;
+    width: 100%;
+    margin-top: 60px;
+    background: #d4edda;
+}
+
+
+.toast-header{
+    background:  #d4edda;
+    color: green;
+}
+
+.toast-body{
+    color: #3d774b;
+   
+}
+
+/* progress-section */
+
+.progress-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.progress{
+    margin-top: 10px;
+}
+
+/* accroaccordion-item */
+.accordion-item span{
+    color: #057dff;
+}
+
+
+/* scrollspy-section */
+
+.mb{
+    
+  margin-left: -12px;
+    margin-top: 50px;
+   width: 100%;
+}
+
+.scrollspy-section p,h4{
+    margin-left: -125px;
+    margin-top: 20px;
+}
+.m{
+    
+    background: #ddd;
+}
+
+.l h3{
+    margin-left: 124px;
+    display: inline-block;
+   
+}
+.l{
+    background: #ddd;
+    margin-top: 50px;
+    padding: 0px 10px;
+}
+
+
+.mb h4{
+    margin-left: 2px;
+}
+
+
+.dropdown{
+    margin-top: 30px;
+}
+
+
+
+/* footer */
+
+.footer-content{
+    background: #17a2b8;
+    padding: 15px 0px;
+}
